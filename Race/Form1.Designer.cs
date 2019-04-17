@@ -55,6 +55,7 @@
             this.sTARTToolStripMenuItem.Name = "sTARTToolStripMenuItem";
             this.sTARTToolStripMenuItem.Size = new System.Drawing.Size(43, 20);
             this.sTARTToolStripMenuItem.Text = "Start";
+            this.sTARTToolStripMenuItem.Click += new System.EventHandler(this.sTARTToolStripMenuItem_Click);
             // 
             // pauseToolStripMenuItem
             // 
